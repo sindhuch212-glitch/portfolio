@@ -1,4 +1,4 @@
-# Customer Insights Dashboard
+# Customer Insights Dashboard 
 
 ## Overview
 This project is focused on analyzing customer behavior using SQL. It demonstrates how to extract, filter, and summarize data to create meaningful insights that can be used for reporting and decision-making. The dataset contains customer information including their spending patterns, demographics, and joining dates.
