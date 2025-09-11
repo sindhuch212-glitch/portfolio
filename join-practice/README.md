@@ -44,3 +44,4 @@ The goal is to learn how to combine data from these two tables using INNER JOIN,
 - Explore advanced JOINs with filtering and grouping  
 - Apply this knowledge to Power BI and Python projects
 
+
